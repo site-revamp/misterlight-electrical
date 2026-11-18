@@ -1,26 +1,39 @@
-Misterlight Electrical Installations Items Trading L.L.C.
-Website Overview
-Misterlight is a UAE-based B2B electrical trading company established in 1991, specialising in specialised electrical cables, cable accessories and electrical installation products. The company serves electrical contractors, MEP contractors, construction companies, infrastructure developers and industrial businesses across the UAE and wider GCC market.
+# Misterlight Electrical Installations Items Trading L.L.C.
 
-The redesigned homepage focuses on positioning Misterlight as a specialist electrical supply partner, making its extensive product range easier to explore and presenting its company credentials more effectively to support commercial enquiries.
-Main Improvements
-1. Clearer Business Positioning and First Impression
-- Strengthened the homepage hero to communicate Misterlight's expertise in specialised electrical cables and installation accessories.
-- Made the company's focus on construction, infrastructure and industrial applications more prominent.
-- Improved the introduction so visitors can understand the company's core offering more quickly.
-2. Improved Product Discovery and Organisation
-- Structured product discovery around specialised cable categories, electrical accessories and installation products.
-- Improved the presentation of extensive product categories to make relevant solutions easier to identify.
-- Created a clearer information hierarchy to help contractors, engineers and procurement teams navigate the product range.
-3. Stronger Trust Signals and Enquiry Journey
-- Improved the presentation of company credentials, including its establishment in 1991 and ISO 9001:2015 certification claim.
-- Gave greater visibility to international brands and notable projects displayed by the company.
-- Strengthened contact pathways and quotation calls to action to make commercial enquiries easier to initiate.
-Design Improvements
-- Visual Presentation: Established a more professional visual direction suited to the electrical supply and industrial sectors.
-- Layout: Improved content hierarchy and section organisation to make important business information easier to scan.
-- User Experience: Created a more structured journey from company introduction to product discovery and contact enquiries.
-- Content Consistency: Aligned product categories, company credentials, project information and enquiry sections around a consistent presentation.
-- Business Focus: Shifted the homepage emphasis towards Misterlight's specialist product offering, industry experience and B2B customer requirements.
+## Website Overview
 
-Project Focus: Clearer positioning, easier product discovery and stronger commercial enquiry pathways.
+Misterlight is a UAE-based electrical trading company established in 1991, specialising in specialised electrical cables, electrical installation accessories and industrial electrical products. The company serves electrical contractors, MEP contractors, construction companies, infrastructure developers and industrial businesses across the UAE and wider GCC.
+
+The redesigned homepage focuses on presenting Misterlight as a specialist electrical supply partner, making its extensive product range easier to explore and strengthening commercial enquiries through clearer messaging, project credibility and accessible contact pathways.
+
+## Main Improvements
+
+### 1. Clearer Business Positioning
+
+- Strengthened the homepage hero to communicate Misterlight's specialisation in electrical cables and installation accessories.
+- Made its relevance to construction, infrastructure, industrial and commercial applications more prominent.
+- Improved the first impression by focusing on what the company supplies and whom it serves.
+
+### 2. Improved Product Discovery
+
+- Organised product presentation around specialised cables, electrical accessories and related product categories.
+- Created a clearer browsing structure to help visitors identify relevant products without navigating an overwhelming product taxonomy.
+- Improved the visibility and accessibility of key product groups.
+
+### 3. Stronger Trust and Enquiry Journey
+
+- Gave greater prominence to company credentials, international partner brands, established history and named project experience.
+- Improved the presentation of project-related credibility information.
+- Strengthened quotation and contact pathways to make commercial enquiries easier to initiate.
+
+## Design Improvements
+
+- **Visual Presentation:** Established a more professional, industry-focused appearance appropriate for a specialised B2B electrical supplier.
+- **Layout:** Improved content hierarchy and section organisation to make business information and product categories easier to scan.
+- **User Experience:** Prioritised product discovery, commercial information and enquiry access.
+- **Content Consistency:** Created a more coherent presentation of company capabilities, products, credentials and project experience.
+- **Conversion Focus:** Made quotation and contact actions more visible throughout the homepage.
+
+## Overall Direction
+
+The redesigned homepage positions Misterlight as an established specialist electrical supply company rather than simply a general electrical trading business. It brings together clearer business messaging, structured product discovery and stronger credibility presentation to support contractors, procurement teams and commercial project enquiries.
